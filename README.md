@@ -14,7 +14,9 @@ Introduccion a un vivero de productos organicos y acerca del dueño.
 Objetivo del proyecto: Aprender las bases de como desarrollar una pagina web, con las herramientas propordionadas en el curso.
 Yo tenia conocimientos de HTML, este curso me ha servido mucho. Hay muchas cosas que las habia aprendido como en automatico.
 Otras no las conocia, como por ejemplo: a configurar la pagina para cualquier dispositivo (telefonos, tablets, etc). A utilizar
-las herramientes de desarrollo del navegador para visualizar codigos, errores, comportamiento de la pagina, etc. 
+las herramientes de desarrollo del navegador para visualizar codigos, errores, comportamiento de la pagina, etc.
+
+* Enlace a mi proyecto: https://portafolio-six-rho.vercel.app/
 ## Hecho por:
 
 ###Amarelis Ortiz
